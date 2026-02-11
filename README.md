@@ -101,23 +101,6 @@ Evaluation metrics used:
 
 ---
 
-## 🚀 How to Run the Project
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/CreditWise-Loan-System.git
-
-# Navigate to project folder
-cd CreditWise-Loan-System
-
-# Install required libraries
-pip install -r requirements.txt
-
-# Run the notebook
-jupyter notebook
-```
-
----
 
 ## 📌 Future Improvements
 
